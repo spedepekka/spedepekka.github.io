@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jarnotuovinen.com" # the base hostname & protocol for your site
 snapchat_username: mrtuovinen
 twitter_username: mrtuovinen
+linkedin_username: jarnotuovinen
 github_username:  spedepekka
 
 # Build settings
