@@ -6,6 +6,7 @@ description: >
   you need to know.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jarnotuovinen.com" # the base hostname & protocol for your site
+snapchat_username: mrtuovinen
 twitter_username: mrtuovinen
 github_username:  spedepekka
 
