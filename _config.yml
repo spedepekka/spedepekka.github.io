@@ -1,0 +1,13 @@
+# Site settings
+title: Jarno Tuovinen - Get Things Done
+description: >
+  Who is Jarno Tuovinen? What he does and where he is good at?
+  What are his strengths and weaknesses? This site tells everything
+  you need to know.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jarnotuovinen.com" # the base hostname & protocol for your site
+twitter_username: mrtuovinen
+github_username:  spedepekka
+
+# Build settings
+markdown: kramdown
