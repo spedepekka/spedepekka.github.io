@@ -12,4 +12,6 @@ linkedin_username: jarnotuovinen
 github_username:  spedepekka
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+ extensions: ["fenced_code_blocks", "tables", "no_intra_emphasis", "strikethrough", "underline", "highlight", "autolink"]
