@@ -5,7 +5,7 @@ date: "2016-05-30 12:37:21 +0300"
 permalink: /:title
 ---
 
-![Jekyll logo](images/jekyll-logo-2x.png)
+![Jekyll logo](assets/jekyll-logo-2x.png)
 
 I used GitHub pages some time ago to host my site, but then I thought I should
 try Wordpress. All those cool plugins etc. seemed to be cool and useful. After a
