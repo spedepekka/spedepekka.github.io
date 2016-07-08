@@ -2,14 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+in_headers: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jarno Tuovinen and this page is about me. I inform here what I'm up to and release my projects etc.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Rapid Programmer](http://rapidprogrammer.com) is one of my alter egos.

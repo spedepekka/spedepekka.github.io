@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+in_headers: true
 ---
 
 <div class="home">
