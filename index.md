@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Jarno Tuovinen - Founder and CEO at Kranu
 ---
-
-In a nutshell, this site explains who Jarno Tuovinen is.
 
 See my company Kranu at [http://www.kranu.fi](http://www.kranu.fi)
