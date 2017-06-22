@@ -7,6 +7,7 @@ in_headers: true
 
 Here is a list of my sites.
 
+* [Google Sites Jarno Tuovinen](https://sites.google.com/view/jarnotuovinen)
 * [About.me Jarno Tuovinen](https://about.me/mrtuovinen)
 * [About.me Kranu](https://about.me/kranu)
 * [Hakukoneoptimointi Oulu Meetup](https://www.meetup.com/Hakukoneoptimointi-Oulu/)
