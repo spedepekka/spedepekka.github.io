@@ -8,6 +8,7 @@ in_headers: true
 Here is a list of my sites.
 
 * [Google Sites Jarno Tuovinen](https://sites.google.com/view/jarnotuovinen)
+* [Google+ Jarno Tuovinen](https://plus.google.com/+JarnoTuovinenJT)
 * [About.me Jarno Tuovinen](https://about.me/mrtuovinen)
 * [About.me Kranu](https://about.me/kranu)
 * [Hakukoneoptimointi Oulu Meetup](https://www.meetup.com/Hakukoneoptimointi-Oulu/)
@@ -22,3 +23,4 @@ Here is a list of my sites.
 * [Rapid Programmer](http://rapidprogrammer.com)
 * [YouTube Jarno Tuovinen](http://www.youtube.com/c/JarnoTuovinenJT)
 * [YouTube Rapid Programmer](https://www.youtube.com/user/spedepekka)
+* [YouTube Kranu](https://www.youtube.com/channel/UCukCtPvOICLrUgzMReliTsw)
