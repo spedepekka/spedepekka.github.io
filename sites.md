@@ -8,6 +8,7 @@ in_headers: true
 Here is a list of my sites.
 
 * [Google Sites Jarno Tuovinen](https://sites.google.com/view/jarnotuovinen)
+* [Google Sites Kranu](https://sites.google.com/view/kranu)
 * [Google+ Jarno Tuovinen](https://plus.google.com/+JarnoTuovinenJT)
 * [About.me Jarno Tuovinen](https://about.me/mrtuovinen)
 * [About.me Kranu](https://about.me/kranu)
