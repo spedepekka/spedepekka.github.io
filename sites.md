@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sites
+custom_title: List of sites Jarno Tuovinen owns/manages
+excerpt: This page contains a list of sites Jarno Tuovinen owns or manages
 permalink: /sites/
 in_headers: true
 ---

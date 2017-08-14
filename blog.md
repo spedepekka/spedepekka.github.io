@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Blog
+custom_title: Jarno Tuovinen - Personal Blog
+excerpt: Jarno Tuovinen blogs about major events in his life. Most likely it has something to do with Search Engine Optimization or programming.
 permalink: /blog/
 in_headers: true
 ---

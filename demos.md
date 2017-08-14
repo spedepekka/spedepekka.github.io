@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Demos
+custom_title: Jarno Tuovinen Demo Projects
+excerpt: This page contains a list of demo projects Jarno Tuovinen has created
 permalink: /demos/
 in_headers: true
 ---
