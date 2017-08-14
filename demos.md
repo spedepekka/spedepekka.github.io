@@ -10,7 +10,7 @@ in_headers: true
 Here I have gathered some of the things I've done so far.
 
 * [~~License plate recognition in Android~~][license-plate] (the video is currently unavailable)
-* [Scrapy crawler for Finnish namedays][scrapy-crawler]
+* [Scrapy crawler for Finnish namedays (nimipäivä JSON)][scrapy-crawler]
 * [Open source Qt project, OpenRcon][openrcon]
 * [This website runs on Jekyll and Github Pages][jarnotuovinen-gh]
 * [Rapid programmer on Jekyll and Github Pages][rapidprogrammer-gh]
