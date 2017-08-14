@@ -3,10 +3,13 @@ description: >
   Jarno Tuovinen is the founder and CEO of digital marketing agency called Kranu.
 baseurl: ""
 url: "http://jarnotuovinen.com"
+
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+
 snapchat_username: mrtuovinen
 twitter_username: mrtuovinen
 linkedin_username: jarnotuovinen
 github_username: spedepekka
 youtube_username: JarnoTuovinenJT
-
-markdown: kramdown
