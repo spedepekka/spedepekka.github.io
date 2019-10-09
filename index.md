@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Jarno Tuovinen - Founder and CEO at Kranu
+title: Jarno "Google-Guru" Tuovinen
 ---
 
-See my company Kranu at [http://www.kranu.fi](http://www.kranu.fi)
+Founder and CEO at [SEO Company Kranu Oy](https://www.kranu.fi/hakukoneoptimointi).  
+Partner and chairman of the board at [First Review Oy](https://www.firstreview.fi/).
+
+
