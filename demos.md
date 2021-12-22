@@ -15,12 +15,12 @@ Here I have gathered some of the things I've done so far.
 * [This website runs on Jekyll and Github Pages][jarnotuovinen-gh]
 * [Rapid programmer on Jekyll and Github Pages][rapidprogrammer-gh]
 * [Python API client development][testdroid-api-client]
-* ~~[Android application for Finnish lunch card system][edenblue] ([Google Play][edenblue-play])~~  (Will be released shortly)
-* [Python client for Edenred lunch card balance][edenblue-python]
+* ~~[Android application for Finnish lunch card system][edenblue] ([Google Play][edenblue-play])~~  (Not published, because they improved their app)
+* ~~[Python client for Edenred lunch card balance][edenblue-python]~~ (Most likely won't work anymore)
 * [Mobile test automation samples for Testdroid][testdroid-samples]
 * ~~[Android SMS application, SMSThunder][smsthunder]~~ (Under construction)
 * [Space Tyckiting AI (2nd place in Oulu 2016 event)][space-tyckiting]
-* [Qt application to show street view from Google Street View API][gsvw]
+* ~~[Qt application to show street view from Google Street View API][gsvw]~~ (Sources are not available anymore)
 
 [license-plate]: https://youtu.be/dP8wLfsV3kg
 [scrapy-crawler]: https://github.com/spedepekka/finnish-namedays
