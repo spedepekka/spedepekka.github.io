@@ -17,15 +17,14 @@ Tämä on minun henkilökohtainen sivusto ja blogailen tänne aina silloin täll
 
 [Rapid Programmer][rapidprogrammer] oli tietty koodari-alter-ago minne aikoinaan kirjoittelin koodaamiseen liittyviä juttuja.
 
-Nykyään olen enemmänkin tekemisissä [hakukoneoptimoinnin][kranu] ja [digimarkkinoinnin][myyntikuutio] kanssa.
+Olen palannut taas [ohjelmistokehityksen pariin Boogielle][boogie].
+
+Sivussa touhuan [hakukoneoptimoinnin parissa Kranu Oy:llä][kranu].
 
 ## My companies / Yritykseni
 
 * [Kranu Oy][kranu]
-* [Myyntikuutio][myyntikuutio]
-* [First Review Oy][firstreview]
 
 [rapidprogrammer]: http://rapidprogrammer.com
 [kranu]: https://www.kranu.fi
-[myyntikuutio]: https://www.myyntikuutio.fi
-[firstreview]: https://www.firstreview.fi
+[boogie]: https://boogiesoftware.com/
