@@ -28,7 +28,7 @@ Here is a list of my sites.
 * [YouTube Rapid Programmer](https://www.youtube.com/user/spedepekka)
 * [YouTube Kranu](https://www.youtube.com/channel/UCukCtPvOICLrUgzMReliTsw)
 * [ite wiki Kranu](https://www.itewiki.fi/kranu)
-* [Kauppalehti Kranu](https://www.kauppalehti.fi/5/i/yritykset/yrityshaku/osuma_tulostus.jsp?id=29340455)
+* [My Otit website](https://www.otit.fi/~ihaaaaaa/index.html)
 
 And other sites I'm not using so frequently
 
