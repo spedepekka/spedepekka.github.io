@@ -25,6 +25,24 @@ Sivussa touhuan [hakukoneoptimoinnin parissa Kranu Oy:llä][kranu].
 
 * [Kranu Oy][kranu]
 
+## Public key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZBLrBBYJKwYBBAHaRw8BAQdAbUrk41WfIDjjdcaF3QggBthuwxkMyk8QgMHw
+GlZxG2y0I1R1b3Zpc2VuIEphcm5vIDxqYXJub3R1b0BnbWFpbC5jb20+iJMEExYK
+ADsWIQShygZdS/6O68Ih4MYB74AfDbtnLgUCZBLrBAIbAwULCQgHAgIiAgYVCgkI
+CwIEFgIDAQIeBwIXgAAKCRAB74AfDbtnLrZDAP4wuIIBj5GYq6oE4V4AcaskAoLV
+BDWHVIfRdJ9UAIXNzgEA5UwmF555KlySNbkKKxJOkdM2dLDd0RKMYTEMFkMhtwa4
+OARkEusEEgorBgEEAZdVAQUBAQdACDC4WG0odY+GXOkZfv2B3WlhAHd66HHxEdfS
+yL5WUUkDAQgHiHgEGBYKACAWIQShygZdS/6O68Ih4MYB74AfDbtnLgUCZBLrBAIb
+DAAKCRAB74AfDbtnLpw6AP9YVlBjN4Uo2nKE6lLnvD7iFgOKi9l8MCQ0OKBIbuQt
+ZQD+J+3YZmuUfMpvMKQxI4t4rnlNwBBH/jmAuurWr7Y7ygc=
+=YY7u
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 [rapidprogrammer]: http://rapidprogrammer.com
 [kranu]: https://www.kranu.fi
 [boogie]: https://boogiesoftware.com/
