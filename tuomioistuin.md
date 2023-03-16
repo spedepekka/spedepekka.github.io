@@ -12,7 +12,7 @@ Tuomioistuimen yhteystietoja voi kysyä Tuovisen Jarnolta.
 
 ## Käsittelyssä olevat asiat
 
-[TJ-0027]({{ site.baseurl }}TJ-0027) (vireilletulopäivämäärä 15.1.2023)
+[TJ-0027]({{ site.baseurl }}TJ-0027) (vireilletulopäivämäärä 15.3.2023)
 
 ## Aiemmin käsitellyt asiat
 
