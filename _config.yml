@@ -8,7 +8,6 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-snapchat_username: mrtuovinen
 twitter_username: mrtuovinen
 linkedin_username: jarnotuovinen
 github_username: spedepekka
