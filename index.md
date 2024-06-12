@@ -29,6 +29,59 @@ Embracing challenges as a freelancer, I'm passionate about delivering pioneering
 
 Seeking a developer who not only shines in DevOps, Android, and CI/CD but also champions innovation and teamwork? Let's connect and explore how we can turn groundbreaking ideas into reality.
 
+## Skills
+
+A list of skills I possess. Most likely the list is not up to date, but I'll try to update it frequently and also add more details to entries as well.
+
+* Java Spring/Java EE
+* Java Android
+* Android
+* Kotlin
+* Bash
+* Python
+* Jenkins
+* CI/CD
+* Git
+* Gitlab
+* Bitbucket
+* Github
+* Ansible
+* Chef
+* CFEngine
+* Proxmox
+* Kubernetes
+* AWS, TODO: Add more detailed listing
+* Postman
+* Se JMeter
+* Mysql
+* Postgresql
+* Terraform
+* Grafana
+* Influxdb
+* Vagrant
+* VMWare
+* Virtualbox
+* Nginx ja Apache
+* Docker
+* Robotium
+* Appium
+* Calabash
+* Mobile testing
+* Image recognition
+* Reverse engineering ([Edenblue Android](https://github.com/spedepekka/edenblue-android), [Edenblue Python CLI](https://github.com/spedepekka/edenblue-python))
+* Azure
+* Digital Ocean
+* VPS
+* Ruby
+* C/C++
+* Qt
+* AWS Lambda
+* Javascript / Typescript
+* Selenium
+* UI Automator
+* Scrum / Kanban / Agile
+* Node.js / Nest.js ([learning repo](https://github.com/spedepekka/nest-bakkari), [blog post about learning Nest.js]({{ site.baseurl }}{% link _posts/2024-06-12-embracing-modern-backend-development-learning-nest-js-prisma-postgresql-and-neon-tech.markdown %}))
+
 ---
 
 Founder and CEO at [SEO Company Kranu Oy](https://www.kranu.fi/hakukoneoptimointi).
