@@ -31,3 +31,5 @@ The tutorial culminated in building a functional backend application using these
 
 Learning Nest.js, Prisma, PostgreSQL, and Neon.tech has been a transformative journey. These tools collectively offer a robust solution for modern backend development. Whether you're a seasoned developer or just starting, embracing these technologies will undoubtedly enhance your skill set and project outcomes. Check out the [full tutorial by Dave Gray](https://youtu.be/8_X0nSrzrCw) for a detailed walkthrough and start building powerful backend applications today!
 
+[The source code that I wrote.](https://github.com/spedepekka/nest-bakkari)
+
