@@ -52,7 +52,7 @@ A list of skills I possess. Most likely the list is not up to date, but I'll try
 * Kubernetes
 * AWS, TODO: Add more detailed listing
 * Postman
-* Se JMeter
+* JMeter
 * Mysql
 * Postgresql
 * Terraform
@@ -66,8 +66,9 @@ A list of skills I possess. Most likely the list is not up to date, but I'll try
 * Robotium
 * Appium
 * Calabash
-* Mobile testing
-* Image recognition
+* Mobile testing ([My thesis](https://urn.fi/URN:NBN:fi:oulu-201802131231))
+* Image recognition ([My thesis](https://urn.fi/URN:NBN:fi:oulu-201802131231))
+* OpenCV ([My thesis](https://urn.fi/URN:NBN:fi:oulu-201802131231), [OpenCV demo](https://youtu.be/-eRDUUFssJ0), [OpenCV music video](https://youtu.be/LzUEWeH0Zsc))
 * Reverse engineering ([Edenblue Android](https://github.com/spedepekka/edenblue-android), [Edenblue Python CLI](https://github.com/spedepekka/edenblue-python))
 * Azure
 * Digital Ocean
