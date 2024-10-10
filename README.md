@@ -1,5 +1,5 @@
 # spedepekka.github.io
 
-Sources for http://jarnotuovinen.com
+Sources for https://jarnotuovinen.com
 
 [Hakukoneoptimointi Oulu](http://www.kranu.fi/hakukoneoptimointi/oulu)
