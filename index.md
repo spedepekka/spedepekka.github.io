@@ -81,7 +81,7 @@ A list of skills I possess. Most likely the list is not up to date, but I'll try
 * Selenium
 * UI Automator
 * Scrum / Kanban / Agile
-* Node.js / Nest.js ([learning repo](https://github.com/spedepekka/nest-bakkari), [blog post about learning Nest.js]({{ site.baseurl }}{% link _posts/2024-06-12-embracing-modern-backend-development-learning-nest-js-prisma-postgresql-and-neon-tech.markdown %}))
+* Node.js / Nest.js ([Node Bookmarks -app](https://github.com/spedepekka/node-bookmarks), [learning repo](https://github.com/spedepekka/nest-bakkari), [blog post about learning Nest.js]({{ site.baseurl }}{% link _posts/2024-06-12-embracing-modern-backend-development-learning-nest-js-prisma-postgresql-and-neon-tech.markdown %}))
 
 ---
 
