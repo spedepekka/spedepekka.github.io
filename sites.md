@@ -9,6 +9,7 @@ in_headers: true
 
 Here is a list of my sites.
 
+* [Frontend Masters learning profile](https://frontendmasters.com/u/mrtuovinen/)
 * [Google Sites Jarno Tuovinen](https://sites.google.com/view/jarnotuovinen)
 * [Google Sites Kranu](https://sites.google.com/view/kranu)
 * [About.me Jarno Tuovinen](https://about.me/mrtuovinen)
