@@ -18,7 +18,7 @@ curl -sSL https://get.rvm.io | bash -s stable
 source /etc/profile.d/rvm.sh
 # update list of known rubies
 rvm get head
-rvm install 3.1.5
+rvm install 3.2.6
 bundle install
 ```
 
