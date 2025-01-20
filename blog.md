@@ -9,7 +9,11 @@ in_headers: true
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <div id="blog-header-text">
+    See <a href="https://rapidprogrammer.com">rapidprogrammer.com</a> for more tech blog posts. This blog contains other topics than just tech topics.
+  </div>
+
+  <h2 class="page-heading">Posts</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
