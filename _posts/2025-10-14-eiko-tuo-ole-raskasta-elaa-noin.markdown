@@ -62,6 +62,10 @@ Kiinan sosiaalinen pisteytys
 * [https://www.hs.fi/paakirjoitukset/art-2000006362476.html](https://www.hs.fi/paakirjoitukset/art-2000006362476.html)
 * [https://demokraatti.fi/kiina-valvoo-ja-pisteyttaa-kansalaisiaan-huipputeknologian-avulla-ja-laajentaa-nyt-myos-yrityksiin-jos-parjaa-huonosti-seuraamuksena-voi-olla-muun-muassa-julkinen-hapaiseminen](https://demokraatti.fi/kiina-valvoo-ja-pisteyttaa-kansalaisiaan-huipputeknologian-avulla-ja-laajentaa-nyt-myos-yrityksiin-jos-parjaa-huonosti-seuraamuksena-voi-olla-muun-muassa-julkinen-hapaiseminen)
 
+Suomen positiivinen luottorekisteri
+
+* [https://www.suomi.fi/palvelut/positiivinen-luottotietorekisteri-verohallinto/e7aaf1cb-8624-4a24-9652-507f8787fa94](https://www.suomi.fi/palvelut/positiivinen-luottotietorekisteri-verohallinto/e7aaf1cb-8624-4a24-9652-507f8787fa94)
+
 EU:n chat control
 
 * [https://fightchatcontrol.eu/](https://fightchatcontrol.eu/)
